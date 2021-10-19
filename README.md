@@ -13,7 +13,12 @@
 
 
 
-
+<h2 style="text-align: center;"><strong>Spanish version</strong></h2>
+<p style="text-align: center;">Primera edicion creando tu juego NFT desde 0.</p>
+<p style="text-align: center;">Parte 1/10</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Comenzaremos por el login de metamask que conectaremos con moralis</p>
+<p style="text-align: center;"><a title="Moralis" href="https://moralis.io/">https://moralis.io/</a></p>
 
 
 
