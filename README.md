@@ -1,7 +1,9 @@
 <h2 style="text-align: center;"><strong># Login-animated-metamask-Moralis</strong><br /><strong>Access animated metamask Moralis - html web design, part 1/10 build nft game. Follow me on instagram @bigrapb</strong></h2>
 <h3><span style="color: #ff6600;"><strong>First part of this edition creating nft game.</strong></span></h3>
 <h2 style="text-align: center;"><br /><strong><span style="color: #ff6600;">We will start with access to metamask using Moralis</span></strong></h2>
-<p style="text-align: center;">&lt;p&gt;&lt;img src="https://i.ibb.co/jDHzSpk/8bb2edf9ebe9f6ec5e7a492a7c0a37c3.png" alt="" /&gt;&lt;/p&gt;</p>
+
+<p><img src="https://i.ibb.co/jDHzSpk/8bb2edf9ebe9f6ec5e7a492a7c0a37c3.png" alt="" /></p>
+
 <h1 style="text-align: center;"><br /><strong>follow me https://www.instagram.com/bigrapb/</strong></h1>
 
 
