@@ -6,6 +6,8 @@ First part of this edition creating nft game.
 
 We will start with access to metamask using Moralis
 
+<p><img src="https://i.ibb.co/jDHzSpk/8bb2edf9ebe9f6ec5e7a492a7c0a37c3.png" alt="" /></p>
+
 
 follow me https://www.instagram.com/bigrapb/
 
