@@ -7,7 +7,7 @@ First part of this edition creating nft game.
 We will start with access to metamask using Moralis
 
 
-
+follow me https://www.instagram.com/bigrapb/
 
 
 
